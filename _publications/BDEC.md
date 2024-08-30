@@ -4,7 +4,7 @@ collection: publications
 category: conference
 permalink: /publication/BDEC
 date: 2024
-venue: 'The 18th International Conference on Provable and Practical Security (ProvSec'24) - Accepted for Publication'
+venue: 'The 18th International Conference on Provable and Practical Security (ProvSec 2024) - Accepted for Publication'
 Page: 124 -- 143
 Publisher: Springer Nature Singapore
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-97-5028-3_7'
