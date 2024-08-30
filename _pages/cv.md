@@ -34,6 +34,11 @@ Education
     * Hainan Normal University Second-Class Scholarship Award
     * Hainan Normal University Excellent Intern Award
 
+Research Interests
+======
+* I'm particularly interested in symmetric key primitives-based post-quantum signature schemes, not only the digital signatures, but also the multiparty signatures such as ring, aggregate, blind signatures.
+* I'm also interested in the design of zero-knowledge proof and zkSNARks.
+
 Work Experience
 ======
 * 2022.06 - 2022.12: Research Assistant
@@ -61,12 +66,6 @@ Skills
   * C++,
   * Python (Sagemath)
   * Java
-
-Research Interests
-=====
-* I'm particularly interested in symmetric key primitives-based post-quantum signature schemes, not only the digital signatures, but also the multiparty signatures such as ring, aggregate, blind signatures.
-* I'm also interested in the design of zero-knowledge proof and zkSNARks.
-
 
 Publications
 ======
