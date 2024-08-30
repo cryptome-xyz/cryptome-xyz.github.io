@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "FIT1047 Introduction to Computer Systems, Networks and Security"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/FIT1047
+venue: "Monash University, Faculty of Information Technology"
+date: 2024.03
+location: "Melbourne, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is a foundation unit for computer science. The unit will cover logic circuit construction, circuit optimization, assembly languages, computer network, and information security. 
