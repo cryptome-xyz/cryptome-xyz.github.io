@@ -12,8 +12,27 @@ redirect_from:
 Education
 ======
 * Ph.D in Post-Quantum Cryptography, Monash University 2021.05 - 2025.01 (expected)
+  * **Supervised By**: Prof. Joseph Liu, A/Prof. Ron Steinfeld, Dr. Muhammed Esgin, Dr. Dongxi Liu
+    * Primarily focused on designing post-quantum advanced signature schemes, including aggregate and ring signatures, using only symmetric key primitives.
+    * Engaged in side projects such as developing new consensus mechanisms and blockchain-based post-quantum applications.
+  * **Award**
+    * Best Paper Award at ACISP’24
+      
 * M.S. in Information Technology, Monash University, 2018.02 - 2019.12
+  * **Academic Result** GPA 3.813
+  * **Scholarship** Information Technology International Merit Scholarship
+  * **Awards**
+    * 2018 Semester 2 Top Mark Certificate for FIT5163 Information and Computer Security
+    * 2019 Semester 2 Top Mark Certificate for FIT5214 Blockchain
+    * 2019 Semester 2 Receiving High Distinction in all units
+  * **Master Thesis** Revocable and Linkable Ring Signature
+    * **Supervised by**: Joseph Liu, Ron Steinfeld, Veronika Kuchta, and Jiangshan Yu
+      
 * B.S. in Management, Hainan Normal University, 2013.09 - 2017.06
+  * **Academic Result** WAM 84.9
+  * **Awards**
+    * Hainan Normal University Second-Class Scholarship Award
+    * Hainan Normal University Excellent Intern Award
 
 Work Experience
 ======
@@ -38,10 +57,10 @@ Skills
   * Proficient in Engligh
   * Active Japanese Learner
   
-* Computer Skills
-  * Programming: C++, Python, Java
-  * Editor: Word, Latex
-  
+* Programming Skills
+  * C++,
+  * Python (Sagemath)
+  * Java
 
 Research Interests
 =====
