@@ -4,6 +4,7 @@ collection: publications
 category: conference
 permalink: /publication/recovable_and_linkable_ring_signature
 date: 2019
+venue: 'International Conference on Information Security and Cryptology  (Inscrypt'19)'
 Page: 3 - 27
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-42921-8_1'
 citation: 'Zhang, X., Liu, J. K., Steinfeld, R., Kuchta, V., & Yu, J. (2020). Revocable and linkable ring signature. In Information Security and Cryptology: 15th International Conference, Inscrypt 2019, Nanjing, China, December 6–8, 2019, Revised Selected Papers 15 (pp. 3-27). Springer International Publishing.'
