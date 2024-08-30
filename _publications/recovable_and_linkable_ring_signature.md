@@ -3,8 +3,8 @@ title: "Revocable and linkable ring signature"
 collection: publications
 category: conference
 permalink: /publication/recovable_and_linkable_ring_signature
-date: 2019
-venue: 'International Conference on Information Security and Cryptology  (Inscrypt'19)'
+year: 2019
+venue: 'International Conference on Information Security and Cryptology  (Inscrypt 2019)'
 Page: 3 - 27
 Publisher: Springer International Publishing
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-42921-8_1'
