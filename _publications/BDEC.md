@@ -1,5 +1,5 @@
 ---
-title: "DualRing-PRF: Post-Quantum (Linkable) Ring Signatures from Legendre and Power Residue PRFs"
+title: "BDEC: Enhancing Learning Credibility via Post-Quantum Digital Credentials"
 collection: publications
 category: conference
 permalink: /publication/DualRing_PRF
