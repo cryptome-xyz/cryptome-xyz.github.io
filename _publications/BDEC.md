@@ -1,6 +1,7 @@
 --- 
 title: "DualRing-PRF: Post-Quantum (Linkable) Ring Signatures from Legendre and Power Residue PRFs" 
-collection: publications category: conference permalink: /publication/DualRing_PRF 
+collection: publications category: conference 
+permalink: /publication/DualRing_PRF 
 year: 2024 
 venue: 'The 29th Australasian Conference on Information Security and Privacy' Page: 124 -- 143 
 publisher: Springer Nature Singapore 
