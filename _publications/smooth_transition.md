@@ -1,5 +1,5 @@
 --- 
-title: "BDEC: Enhancing Learning Credibility via Post-Quantum Digital Credentials" 
+title: "Smooth Transition from PoW to PoS" 
 collection: publications 
 category: conference 
 permalink: /publication/smooth_transition 
