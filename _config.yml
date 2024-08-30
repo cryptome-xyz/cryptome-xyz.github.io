@@ -21,7 +21,7 @@ repository               : "cryptome-xyz/cryptome-xyz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_picture.jpg"
   name             : "Xinyu Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Cryto4Life"
@@ -57,7 +57,7 @@ author:
   #keybase          : # Username
   #instagram        : # Username
   #lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/xinyu-zhang-a1022a213
+  linkedin         : "xinyu-zhang-a1022a213"
   #mastodon         : # URL
   #medium           : # URL
   #pinterest        : # Username
