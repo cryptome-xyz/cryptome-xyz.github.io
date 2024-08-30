@@ -12,7 +12,7 @@ title                    : "Xinyu Zhang's Website"
 title_separator          : "-"
 name                     : &name "Xinyu Zhang"
 description              : &description ""
-url                      : https://cryptome-xyz.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://cryptome-xyz.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cryptome-xyz/cryptome-xyz.github.io"
 
