@@ -4,8 +4,7 @@ collection: publications
 category: conference
 permalink: /publication/BDEC
 date: 2024
-venue: 'The 18th International Conference on Provable and Practical Security (ProvSec'24)'
-Status: 'Accepted for Publication'
+venue: 'The 18th International Conference on Provable and Practical Security (ProvSec'24) - Accepted for Publication'
 Authors: Ziyi Li, Xinyu Zhang, Hui Cui, Jun Zhao, Xuan Chen
 ---
 
