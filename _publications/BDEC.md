@@ -2,7 +2,7 @@
 title: "BDEC: Enhancing Learning Credibility via Post-Quantum Digital Credentials"
 collection: publications
 category: conference
-permalink: /publication/DualRing_PRF
+permalink: /publication/BDEC
 date: 2024
 venue: 'The 29th Australasian Conference on Information Security and Privacy'
 Page: 124 -- 143
