@@ -3,7 +3,7 @@ title: "Loquat: A SNARK-Friendly Post-Quantum Signature based on the Legendre PR
 collection: publications
 category: conferences
 permalink: /publication/Loquat
-date: 2024
+date: 2024-08-16
 venue: 'Annual International Cryptology Conference (Crypto 2024)'
 Page: 3 - 38
 Publisher: Springer Nature Switzerland
