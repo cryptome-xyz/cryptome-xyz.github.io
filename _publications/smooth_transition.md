@@ -1,7 +1,7 @@
 --- 
 title: "Smooth Transition from PoW to PoS" 
 collection: publications 
-category: conference 
+category: conferences 
 permalink: /publication/smooth_transition 
 year: 2024 
 venue: 'The 6th ACM International Symposium on Blockchain and Secure Critical Infrastructure (BSCI 2024) - Accepted for Publication' 
