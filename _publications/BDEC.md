@@ -7,6 +7,7 @@ date: 2024-09-25
 venue: 'The 18th International Conference on Provable and Practical Security (ProvSec) - Accepted for Publication'
 Authors: 'Ziyi Li, Xinyu Zhang, Hui Cui, Jun Zhao, Xuan Chen'
 ---
+Keywords: Digital Credential; Anonymous; Post-Quantum; Blockchain
 
 Digital credentials can streamline the verification process, reduce fraud, and enhance the portability and accessibility of academic records, and thus digital credentials become increasingly essential for verifying academic achievements and qualifications in a rapidly digitizing world. However, current research on digital credentials in the education scenario falls into two categories: 1) blockchain-verifiable credentials, which either rely on blockchain security or classical cryptographic problems and are not quantum-safe; and 2) post-quantum anonymous credentials, primarily lattice-based, facing challenges in achieving conditional linkability and efficient revocation. 
 
