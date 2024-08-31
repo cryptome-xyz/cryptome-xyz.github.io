@@ -3,12 +3,12 @@ title: "DualRing-PRF: Post-Quantum (Linkable) Ring Signatures from Legendre and 
 collection: publications
 category: conferences
 permalink: /publication/DualRing_PRF
-year: 2024
+date: 2024-07-16
 venue: 'The 29th Australasian Conference on Information Security and Privacy (ACISP 2024)'
-Page: 124 -- 143
-Publisher: Springer Nature Singapore
+page: 124 -- 143
+publisher: Springer Nature Singapore
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-97-5028-3_7'
-Authors: 'Xinyu Zhang, Ron Steinfeld, Joseph Liu, Muhammed Esgin, Dongxi Liu, and Sushmita Ruj'
+citation: 'Zhang, Xinyu, Ron Steinfeld, Joseph K. Liu, Muhammed F. Esgin, Dongxi Liu, and Sushmita Ruj. "DualRing-PRF: Post-quantum (Linkable) Ring Signatures from Legendre and Power Residue PRFs." In Australasian Conference on Information Security and Privacy, pp. 124-143. Singapore: Springer Nature Singapore, 2024.'
 ---
 
 Ring signatures are one of the crucial cryptographic primitives used in the design of privacy-preserving systems. Such a signature scheme allows a signer to anonymously sign a message on behalf of a spontaneously formed group. It not only ensures the authenticity of the message but also conceals the true signer within the group. An important extension of ring signatures is \textit{linkable} ring signatures, which prevent a signer from signing twice without being detected (under some constraints). Linkable ring signatures offer advantages in applications where full anonymity might jeopardise the intended purpose, such as privacy-oriented cryptocurrencies like Monero.
