@@ -20,4 +20,4 @@ I am sincerely grateful to everyone who has supported me along this journey!
 News
 ======
 1. My paper _Loquat: A SNARK-Friendly Post-Quantum Signature based on the Legendre PRF with Applications in Ring and Aggregate Signatures_ has been accepted by Crypto 2024!! [pdf](https://eprint.iacr.org/2024/868.pdf)
-2. My paper _DualRing-PRF: Post-Quantum (Linkable) Ring Signatures from Legendre and Power Residue PRFs_ has been awarded the best paper award at ACISP 2024!! [pdf] (https://eprint.iacr.org/2024/985.pdf)
+2. My paper _DualRing-PRF: Post-Quantum (Linkable) Ring Signatures from Legendre and Power Residue PRFs_ has been awarded the best paper award at ACISP 2024!! [pdf](https://eprint.iacr.org/2024/985.pdf)
