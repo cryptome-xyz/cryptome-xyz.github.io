@@ -19,5 +19,9 @@ I am sincerely grateful to everyone who has supported me along this journey!
 
 News
 ======
+# September 2024
+- I will be the session chair for the "Encryption" and "Tight Security" sessions at ProvSec 2024.
+
+# July 2024
 1. Our paper _Loquat: A SNARK-Friendly Post-Quantum Signature based on the Legendre PRF with Applications in Ring and Aggregate Signatures_, has been accepted by Crypto 2024! [[pdf]](https://eprint.iacr.org/2024/868.pdf)
 2. Our paper _DualRing-PRF: Post-Quantum (Linkable) Ring Signatures from Legendre and Power Residue PRFs_, has received the best paper award at ACISP 2024! [[pdf]](https://eprint.iacr.org/2024/985.pdf)
