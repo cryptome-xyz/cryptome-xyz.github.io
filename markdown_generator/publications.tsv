@@ -1,4 +1,4 @@
-pub_date  title  venue  paper_url  authors
+pub_date    title    venue    paper_url    authors
 2009-10-01  Paper Title Number 1  Journal 1  http://academicpages.github.io/files/paper1.pdf  AuthorA
 2010-10-01  Paper Title Number 2  Journal 1  http://academicpages.github.io/files/paper2.pdf  AuthorB
 2015-10-01  Paper Title Number 3  Journal 1  http://academicpages.github.io/files/paper3.pdf  AuthorC
