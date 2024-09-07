@@ -19,5 +19,7 @@ main:
         
   - title: "Blog"
     url: /year-archive/
-    
+
+  - title: "News Archive"
+    url: /news-archive/
 
