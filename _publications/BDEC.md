@@ -3,6 +3,7 @@ title: "BDEC: Enhancing Learning Credibility via Post-Quantum Digital Credential
 collection: publications
 category: conferences
 permalink: /publication/BDEC
+paperurl: 'https://cryptome-xyz.github.io/files/Li_Zhang2024BDEC(ProvSec).pdf'
 date: 2024-09-25
 venue: 'The 18th International Conference on Provable and Practical Security (ProvSec) - Accepted for Publication'
 Authors: 'Ziyi Li, Xinyu Zhang, Hui Cui, Jun Zhao, Xuan Chen'
