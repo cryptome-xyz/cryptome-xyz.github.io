@@ -7,7 +7,7 @@ date: 2024-07-16
 venue: 'The 29th Australasian Conference on Information Security and Privacy (ACISP 2024)'
 page: 124 -- 143
 publisher: Springer Nature Singapore
-paperurl: 'https://link.springer.com/chapter/10.1007/978-981-97-5028-3_7'
+paperurl: 'https://eprint.iacr.org/2024/985.pdf'
 citation: 'Zhang, Xinyu, Ron Steinfeld, Joseph K. Liu, Muhammed F. Esgin, Dongxi Liu, and Sushmita Ruj. "DualRing-PRF: Post-quantum (Linkable) Ring Signatures from Legendre and Power Residue PRFs." In Australasian Conference on Information Security and Privacy, pp. 124-143. Singapore: Springer Nature Singapore, 2024.'
 ---
 Keywords: Ring Signature; Linkability; Post-Quantum; Symmetric Key Primitives
