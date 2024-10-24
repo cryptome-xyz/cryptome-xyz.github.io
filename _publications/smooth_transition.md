@@ -1,7 +1,7 @@
 --- 
 title: "Smooth Transition from PoW to PoS" 
 collection: publications 
-category: conferences 
+category: workshops 
 permalink: /publication/smooth_transition 
 paperurl: 'https://cryptome-xyz.github.io/files/Zhang2024Smooth(BSCI).pdf'
 date: 2024-07-02
