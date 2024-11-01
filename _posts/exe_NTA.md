@@ -1,7 +1,7 @@
 ---
 title: 'Some Exercise Answers to A Computational Introduction to Number Theory and Algebra by Victor Shoup (2nd Ed)'
 date: 2024-11-02
-permalink: /posts/2012/08/exe_NTA/
+permalink: /posts/2024/11/exe_NTA/
 tags:
   - Number Theory
 ---
