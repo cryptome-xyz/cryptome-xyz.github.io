@@ -1,6 +1,7 @@
 ---
 title: 'Some Exercises Answers in Victor Shoup's Introduction to Number Theory and Algebra (2nd Ed)'
 date: 2024-11-01
+permalink: /posts/2012/08/exe_NAT/
 tags:
   - Number Theory
 ---
