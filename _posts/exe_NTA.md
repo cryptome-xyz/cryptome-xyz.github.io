@@ -9,7 +9,7 @@ I’m currently learning the basics of number theory and algebra through "A Comp
 
 Chapter 1 Basic Properties of the Integers
 ===
-Exercise 1.1. Let $a, b, d \in \mathbb{Z}$ with $d \neq 0$. Show that $a | b$ iff $da | db$.
+**Exercise 1.1.** Let $a, b, d \in \mathbb{Z}$ with $d \neq 0$. Show that $a | b$ iff $da | db$.
 
 Proof: We first prove $a|b \implies da|db$: $a|b \implies b = az$ for some $z \in \mathbb{Z}$. Multiplying both sides with $d$ we get $bd = azd = (ad)z \implies ad | bd$. 
 
