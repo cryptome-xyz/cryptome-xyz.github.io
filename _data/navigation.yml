@@ -18,8 +18,8 @@ main:
     url: /teaching/
 
   - title: "Blog"
-  url: "https://crypme.blogspot.com/"
-  external: true
+    url: "https://crypme.blogspot.com/"
+    external: true
 
   - title: "News Archive"
     url: /news-archive/
