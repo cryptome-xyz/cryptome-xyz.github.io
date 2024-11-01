@@ -15,7 +15,11 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Blog"
+  url: "https://crypme.blogspot.com/"
+  external: true
 
   - title: "News Archive"
     url: /news-archive/
