@@ -1,6 +1,6 @@
 ---
-title: 'Blog Post number 4'
-date: 2015-08-14
+title: 'Some Exercise Answers to Victor Shoup's A Computational Introduction to Number Theory and Algebra (2nd Ed)'
+date: 2024-11-02
 permalink: /posts/2012/08/exe_NTA/
 tags:
   - Number Theory
