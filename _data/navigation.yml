@@ -21,6 +21,3 @@ main:
     url: "https://crypme.blogspot.com/"
     external: true
 
-  - title: "News Archive"
-    url: /news-archive/
-
