@@ -24,11 +24,11 @@ author:
   avatar           : "selfie2.jpg"
   name             : "Xinyu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Contact me at Xinyu.Zhang2@monash.edu"
+  bio              : "Xinyu.Zhang2@monash.edu"
   location         : "Melbourne, Victoria, Australia"
   employer         : "Monash University"
   uri              : # URL
-  #email            : # "xinyu.zhang1@monash.edu" 
+  email            : "Xinyu.Zhang2@monash.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
