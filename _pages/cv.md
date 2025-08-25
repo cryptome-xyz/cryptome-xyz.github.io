@@ -55,14 +55,22 @@ Work Experience
   * Hainan Normal University
   * Duties: Test the project management softwares
 
+Academic Services
+======
+* Anonymous Reviews
+  * AsiaCCS (CORE A) 2026 [Program Committee]
+  * Eurocrypt (CORE A*) 2024 [Sub-Reviewer]
+  * IEEE TDSC (CORE A) 2023 [Reviewer]
+  * IEEE Transactions on Services Computing (CORE A*) 2022 [Reviewer]
 
-  
+* Other Roles
+  * Monash Cybersecurity Group Seminar Coordinator
+
 Skills
 ======
 * Language Skills
   * Native Mandarin Speaker
   * Proficient in Engligh
-  * Active Japanese Learner
   
 * Programming Skills
   * C++,
