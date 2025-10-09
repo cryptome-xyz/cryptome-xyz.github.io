@@ -79,7 +79,7 @@ Skills
 
 Publications
 ======
-See the full list on the <a href="{{ '/publications/' | relative_url }}">Publications page</a>.
+See the full list on the <a href="{{ '/publications/' | relative_url }}"><strong>Publications page</strong></a>.
 
   
 Talks
