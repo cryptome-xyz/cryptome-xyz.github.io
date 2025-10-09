@@ -17,6 +17,11 @@ Later, I pursued a Master of Information Technology at Monash University, where 
 
 I am sincerely grateful to everyone who has supported me along this journey!
 
+2025 News
+======
+## October
+- Our most recent paper: *Pegasus and PegaRing: Efficient (Ring) Signatures from Sigma-Protocols for Power Residue PRFs with (Q)ROM Security*, is now on eprint! [[pdf]] (https://eprint.iacr.org/2025/1841.pdf)
+
 2024 News
 ======
 ## September
