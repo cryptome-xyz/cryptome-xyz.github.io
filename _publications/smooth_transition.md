@@ -5,7 +5,7 @@ category: workshops
 permalink: /publication/smooth_transition 
 paperurl: 'https://cryptome-xyz.github.io/files/Zhang2024Smooth(BSCI).pdf'
 date: 2024-07-02
-venue: 'The 6th ACM International Symposium on Blockchain and Secure Critical Infrastructure (BSCI) - Accepted for Publication' 
+venue: 'The 6th ACM International Symposium on Blockchain and Secure Critical Infrastructure (BSCI)' 
 ---
 Keywords: Blockchain, Consensus, Proof of Work, Proof of Stake, Transition
 
