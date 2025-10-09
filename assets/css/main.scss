@@ -39,3 +39,29 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* --- Custom publication styles --- */
+
+/* Change link color and hover for publication titles */
+.archive .archive__item-title a {
+  color: #004d99;          /* deep blue, easy on the eyes */
+  font-size: 1.2rem;       /* increase size */
+  font-weight: 600;        /* semi-bold */
+  text-decoration: none;   /* remove underline */
+}
+
+.archive .archive__item-title a:hover {
+  color: #007acc;          /* lighter blue on hover */
+  text-decoration: underline;
+}
+
+/* Optional: Adjust spacing between entries */
+.archive .archive__item {
+  margin-bottom: 2rem;
+}
+
+/* Optional: Keywords and “Download Paper” styling */
+.archive p {
+  font-size: 0.95rem;
+  color: #444;
+}
