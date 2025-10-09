@@ -1,0 +1,17 @@
+/* === Your custom tweaks === */
+
+/* Publication title colors */
+.archive .archive__item-title a {
+  color: #3b3b3b;            /* dark grey */
+  font-weight: 600;
+  text-decoration: none;
+}
+.archive .archive__item-title a:hover {
+  color: #636363;            /* lighter grey */
+  text-decoration: underline;
+}
+
+/* Hide the sitemap footer column */
+.site-footer .footer__initial-content {
+  display: none !important;
+}
