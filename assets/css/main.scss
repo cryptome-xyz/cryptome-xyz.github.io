@@ -1,13 +1,16 @@
 ---
 ---
+/* overrides before imports */
+$link-color: #3b3b3b;
+$link-color-hover: #636363;
 
-/* 1) Override theme variables BEFORE the import */
-$link-color: #3b3b3b;        /* normal link color */
-$link-color-hover: #636363;  /* hover color */
+/* try one of these import lines (pick ONE) */
+@import "academicpages";                  /* preferred */
+@import "academicpages/academicpages";    /* fallback */
+@import "minimal-mistakes/skins/default"; /* MM default skin */
+@import "minimal-mistakes";               /* MM core */
 
-/* 2) Import the AcademicPages bundle (pulls Minimal Mistakes, etc.) */
-@import "academicpages";
-
+/* your extras */
 .site-footer .footer__initial-content { display: none !important; }
 .archive .archive__item-title { font-size: 1.25rem; line-height: 1.3; }
 .archive .archive__item-title a { font-weight: 600; text-decoration: none; }
