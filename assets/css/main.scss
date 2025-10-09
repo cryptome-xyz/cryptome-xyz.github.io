@@ -8,6 +8,19 @@ $link-color-hover: #777777;  /* lighter grey on hover */
 /* 2) Import the theme */
 @import "academicpages";
 
+/* Hide the footer row that contains the "Sitemap" column */
+.site-footer .footer__initial-content { 
+  display: none !important; 
+}
+
+/* If your theme variant uses different class names, this covers them too */
+.page__footer .footer__initial-content,
+.page__footer .page__footer-nav,
+.page__footer .sitemap {
+  display: none !important;
+}
+
+
 /* 3) Publication-specific tweaks */
 .archive .archive__item-title {
   font-size: 1.25rem;
