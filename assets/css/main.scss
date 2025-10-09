@@ -2,31 +2,18 @@
 ---
 
 /* 1) Override theme variables BEFORE the import */
-$link-color: #333333;        /* dark grey for normal link */
-$link-color-hover: #777777;  /* lighter grey on hover */
+$link-color: #333333;        /* normal link color */
+$link-color-hover: #777777;  /* hover color */
 
-/* 2) Import the theme */
+/* 2) Import the AcademicPages bundle (pulls Minimal Mistakes, etc.) */
 @import "academicpages";
 
-/* Hide the footer row that contains the "Sitemap" column */
-.site-footer .footer__initial-content { 
-  display: none !important; 
-}
-
-/* If your theme variant uses different class names, this covers them too */
-.page__footer .footer__initial-content,
-.page__footer .page__footer-nav,
-.page__footer .sitemap {
-  display: none !important;
-}
-
-
 /* 3) Publication-specific tweaks */
-.archive .archive__item-title {
+.archive .archive__item-title {           /* the H2 itself */
   font-size: 1.25rem;
   line-height: 1.3;
 }
-.archive .archive__item-title a {
+.archive .archive__item-title a {         /* the clickable title */
   font-weight: 600;
   text-decoration: none;
 }
@@ -34,9 +21,9 @@ $link-color-hover: #777777;  /* lighter grey on hover */
   text-decoration: underline;
 }
 
-/* Optional: Adjust spacing and paragraph text */
+/* Optional spacing + muted text tweaks */
 .archive .archive__item { margin-bottom: 2rem; }
 .archive p { font-size: 0.95rem; color: #444; }
 
-/* Hide the sitemap link */
+/* Hide the sitemap column */
 .site-footer .footer-col:first-child { display: none; }
