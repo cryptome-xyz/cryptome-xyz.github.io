@@ -65,3 +65,8 @@
   font-size: 0.95rem;
   color: #444;
 }
+
+/* --- Hide the sitemap footer link --- */
+.site-footer .footer-col:first-child {
+  display: none;
+}
