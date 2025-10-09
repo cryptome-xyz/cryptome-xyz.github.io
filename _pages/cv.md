@@ -79,7 +79,7 @@ Skills
 
 Publications
 ======
-See the full list on the [Publications page](/publications/).
+<ul>{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
   
 Talks
 ======
