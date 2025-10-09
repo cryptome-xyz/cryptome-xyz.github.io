@@ -79,7 +79,7 @@ Skills
 
 Publications
 ======
-See the full list on the [Publications page](/publications/).
+See the full list on the [Publications page](_pages/publications/).
   
 Talks
 ======
