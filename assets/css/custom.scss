@@ -4,12 +4,6 @@
 $link-color: #3b3b3b;
 $link-color-hover: #636363;
 
-/* try one of these import lines (pick ONE) */
-@import "academicpages";                  /* preferred */
-@import "academicpages/academicpages";    /* fallback */
-@import "minimal-mistakes/skins/default"; /* MM default skin */
-@import "minimal-mistakes";               /* MM core */
-
 /* your extras */
 .site-footer .footer__initial-content { display: none !important; }
 .archive .archive__item-title { font-size: 1.25rem; line-height: 1.3; }
