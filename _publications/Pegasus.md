@@ -4,7 +4,7 @@ collection: publications
 category: eprint
 permalink: /publication/Pegasus
 date: 2025-10-08
-paperurl: 'https://eprint.iacr.org/2024/868.pdf'
+paperurl: 'https://eprint.iacr.org/2025/1841.pdf'
 ---
 Keywords: Legendre and Power Residue PRFs, Sigma Protocol, Post-Quantum, Signature, Ring Signature, QROM
 
