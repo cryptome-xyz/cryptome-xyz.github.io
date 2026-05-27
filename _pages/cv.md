@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Post-Quantum Cryptography, Monash University 2021.05 - 2025.01 (expected)
+* Ph.D in Post-Quantum Cryptography, Monash University 2021.05 - 2025.02
   * **Supervised By**: Prof. Joseph Liu, A/Prof. Ron Steinfeld, Dr. Muhammed Esgin, Dr. Dongxi Liu
     * Primarily focused on designing post-quantum advanced signature schemes, including aggregate and ring signatures, using only symmetric key primitives.
     * Engaged in side projects such as developing new consensus mechanisms and blockchain-based post-quantum applications.
@@ -43,6 +43,10 @@ Research Interests
 
 Work Experience
 ======
+* 2025.02 - 2028.02: Research Fellow
+  * Monash University
+  * Duties: Design cryprographic protcols
+    
 * 2022.06 - 2022.12: Research Assistant
   * Monash University
   * Duties: Optimizing the transition process from proof-of-work blockchain to proof-of-stake blockchain. 
@@ -66,20 +70,15 @@ Academic Services
 * Other Roles
   * Monash Cybersecurity Group Seminar Coordinator
 
-Skills
-======
-* Language Skills
-  * Native Mandarin Speaker
-  * Proficient in Engligh
-  
-* Programming Skills
-  * C++,
-  * Python (Sagemath)
-  * Java
-
 Publications
 ======
-<ul>{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
+<p>
+  Please see my
+  <a href="https://scholar.google.com/citations?user=MpDXthYAAAAJ&hl=en">
+    Google Scholar profile
+  </a>
+  for a complete and up-to-date publication list.
+</p>
   
 Talks
 ======
@@ -92,20 +91,6 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Volunteering Experience
-======
-* 2019.01 - 2019.06: Ambassador (aMigo Program)
-  * Monash University
-  * Duties: Provided guidance and supports at various events held by the university.
-
-* 2019.03: Java Tutor (Bootcamp)
-  * Monash University
-  * Duties: Provided one-on-one and group tutoring sessions to help students understand Java programming concepts and improve their coding skills.
-    
-* 2018.07 - 2016.11: Peer Mentor
-  * Monash University
-  * Duties: Provided guidance and support to new international students, helping them accommodate to the academic and social environment.
  
 * 2018.03 - 2019.03 Office Administrator
   * Avalon Centre
