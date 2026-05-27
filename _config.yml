@@ -218,8 +218,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: https://scholar.google.com/citations?user=MpDXthYAAAAJ&hl=en 
-    # /:collection/:path/
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
