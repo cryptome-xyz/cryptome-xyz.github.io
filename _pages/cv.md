@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* You can download the PDF version of my resume from [here](/files/Xinyu_Zhang_CV_Revised.pdf).
+<!-- * You can download the PDF version of my resume from [here](/files/Xinyu_Zhang_CV_Revised.pdf). -->
 
 Education
 ======
