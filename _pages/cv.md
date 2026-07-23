@@ -16,11 +16,9 @@ Education
 * Doctor of Philosophy (Ph.D.), Monash University, 2021.05 - 2025.02
   * **Supervisors**: Prof. Joseph Liu, Prof. Ron Steinfeld, Dr. Muhammed Esgin, Dr. Dongxi Liu
   * **Research Area**: Post-quantum cryptography, with a focus on symmetric-key-based digital signatures and advanced signature schemes.
-  * **Publications**:
+  * **Selected Publications**:
     * [CORE A*] Loquat: a SNARK-friendly post-quantum signature based on the legendre PRF with applications in ring and aggregate signatures (Crypto'24)
     * [CORE B] DualRing-PRF: Post-quantum (linkable) ring signatures from legendre and power residue PRFs (ACISP'24, Best Paper Award)
-    * [CORE C] Bdec: Enhancing learning credibility via post-quantum digital credentials (ProvSec'24)
-    * [Workshop] Smooth Transition from PoW to PoS (BSCI'24)
       
 * Master of Information Technology, Monash University, 2018.02 - 2019.12
   * **Academic Result** GPA 3.813
@@ -45,8 +43,6 @@ Work Experience
 * 2025.02 - 2028.02: Research Fellow
   * Monash University
   * Duties: Design weighted threshold cryptographic protocols
-  * **Publications**
-    * [CORE C] Plum: SNARK-Friendly Post-Quantum Signature Based on Power Residue PRFs (ProvSec'25) 
     
 * 2022.06 - 2022.12: Research Assistant
   * Monash University
