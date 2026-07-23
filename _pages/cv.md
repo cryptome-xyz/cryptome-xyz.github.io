@@ -17,8 +17,11 @@ Education
   * **Supervised By**: Prof. Joseph Liu, A/Prof. Ron Steinfeld, Dr. Muhammed Esgin, Dr. Dongxi Liu
     * Primarily focused on designing post-quantum advanced signature schemes, including aggregate and ring signatures, using only symmetric key primitives.
     * Engaged in side projects such as developing new consensus mechanisms and blockchain-based post-quantum applications.
-  * **Award**
-    * Best Paper Award at ACISP’24
+  * **Publications**:
+    * [CORE A*] Loquat: a SNARK-friendly post-quantum signature based on the legendre PRF with applications in ring and aggregate signatures (Crypto'24)
+    * [CORE B] DualRing-PRF: Post-quantum (linkable) ring signatures from legendre and power residue PRFs (ACISP'24, Best Paper Award)
+    * [CORE C] Bdec: Enhancing learning credibility via post-quantum digital credentials (ProvSec'24)
+    * [Workshop] Smooth Transition from PoW to PoS (BSCI'24)
       
 * M.S. in Information Technology, Monash University, 2018.02 - 2019.12
   * **Academic Result** GPA 3.813
@@ -46,11 +49,12 @@ Work Experience
 * 2025.02 - 2028.02: Research Fellow
   * Monash University
   * Duties: Design weighted threshold cryptographic protocols
+  * **Publications**
+    * [CORE C] Plum: SNARK-Friendly Post-Quantum Signature Based on Power Residue PRFs (ProvSec'25) 
     
 * 2022.06 - 2022.12: Research Assistant
   * Monash University
   * Duties: Optimizing the transition process from proof-of-work blockchain to proof-of-stake blockchain.
-  * Publication: Smooth Transition from PoW to PoS (BSCI'24)
 
 
 Academic Services
@@ -63,7 +67,7 @@ Academic Services
 
 * Other Roles
   * Monash Cybersecurity Group Seminar Coordinator
-
+<!--
 Publications
 ======
 <p>
@@ -84,5 +88,6 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
+-->
 
