@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Post-Quantum Cryptography, Monash University 2021.05 - 2025.02
-  * **Supervised By**: Prof. Joseph Liu, A/Prof. Ron Steinfeld, Dr. Muhammed Esgin, Dr. Dongxi Liu
+  * **Supervisors**: Prof. Joseph Liu, Prof. Ron Steinfeld, Dr. Muhammed Esgin, Dr. Dongxi Liu
     * Primarily focused on designing post-quantum advanced signature schemes, including aggregate and ring signatures, using only symmetric key primitives.
     * Engaged in side projects such as developing new consensus mechanisms and blockchain-based post-quantum applications.
   * **Publications**:
