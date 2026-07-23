@@ -21,6 +21,7 @@ I am sincerely grateful to everyone who has supported me along this journey!
 ======
 ## October
 - Our most recent paper: *Pegasus and PegaRing: Efficient (Ring) Signatures from Sigma-Protocols for Power Residue PRFs with (Q)ROM Security*, is now on eprint! [[pdf]](https://eprint.iacr.org/2025/1841.pdf)
+- We have a follow-up work on SNARK-friendly signatures, check it out here! [[link]](https://link.springer.com/chapter/10.1007/978-981-95-2961-2_6) 
 
 2024 News
 ======
