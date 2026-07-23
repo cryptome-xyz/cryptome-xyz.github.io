@@ -45,19 +45,13 @@ Work Experience
 ======
 * 2025.02 - 2028.02: Research Fellow
   * Monash University
-  * Duties: Design cryprographic protcols
+  * Duties: Design weighted threshold cryptographic protocols
     
 * 2022.06 - 2022.12: Research Assistant
   * Monash University
-  * Duties: Optimizing the transition process from proof-of-work blockchain to proof-of-stake blockchain. 
+  * Duties: Optimizing the transition process from proof-of-work blockchain to proof-of-stake blockchain.
+  * Publication: Smooth Transition from PoW to PoS (BSCI'24)
 
-* 2016.11 - 2017.02: Software Testing
-  * Zhuofan Technology Corporation
-  * Duties: Mantain the website for Hainan Normal University, Faculty of Art
- 
-* 2015.09 - 2016.09: Website Management
-  * Hainan Normal University
-  * Duties: Test the project management softwares
 
 Academic Services
 ======
@@ -91,7 +85,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- 
-* 2018.03 - 2019.03 Office Administrator
-  * Avalon Centre
-  * Duties: Office duties for improving the lives of the homeless in Australia.
+
