@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy (Ph.D.) Monash University 2021.05 - 2025.02
+* Doctor of Philosophy (Ph.D.), Monash University, 2021.05 - 2025.02
   * **Supervisors**: Prof. Joseph Liu, Prof. Ron Steinfeld, Dr. Muhammed Esgin, Dr. Dongxi Liu
   * **Research Area**: Post-quantum cryptography, with a focus on symmetric-key-based digital signatures and advanced signature schemes.
   * **Publications**:
