@@ -17,17 +17,14 @@ Later, I pursued a Master of Information Technology at Monash University, where 
 
 I am sincerely grateful to everyone who has supported me along this journey!
 
+2026 News
+======
+## August
+- Our paper *Verifiable Weighted Secret Sharing based on Chinese Remainder Theorem* has been accepted by Asiacrypt 2026! (I will post the eprint version soon!)
+
+
 2025 News
 ======
 ## October
 - Our most recent paper: *Pegasus and PegaRing: Efficient (Ring) Signatures from Sigma-Protocols for Power Residue PRFs with (Q)ROM Security*, is now on eprint! [[pdf]](https://eprint.iacr.org/2025/1841.pdf)
 - We have a follow-up work on SNARK-friendly signatures, check it out here! [[link]](https://link.springer.com/chapter/10.1007/978-981-95-2961-2_6) 
-
-2024 News
-======
-## September
-- I will be the session chair for the "Encryption" and "Tight Security" sessions at ProvSec 2024.
-
-## July
-- Our paper _Loquat: A SNARK-Friendly Post-Quantum Signature based on the Legendre PRF with Applications in Ring and Aggregate Signatures_, has been accepted by Crypto 2024! [[pdf]](https://eprint.iacr.org/2024/868.pdf)
-- Our paper _DualRing-PRF: Post-Quantum (Linkable) Ring Signatures from Legendre and Power Residue PRFs_, has received the best paper award at ACISP 2024! [[pdf]](https://eprint.iacr.org/2024/985.pdf)
