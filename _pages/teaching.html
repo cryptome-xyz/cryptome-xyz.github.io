@@ -14,6 +14,18 @@ author_profile: true
 
 <h2>Supervision</h1>
 
-{% for post in site.supervision reversed %}
-  {% include archive-single.html %}
+<h3> PhD Candidates </h3>
+{% for post in site.supervision %}
+  {% if post.type == "PhD" %}
+    <div class="supervision-item">
+      <p>
+        <strong>[{{ post.period }}] {{ post.student }}</strong>
+        {% if post.institution %}
+          <i>({{ post.institution }})</i>
+        {% endif %}
+        <br>
+        <strong>Project:</strong> {{ post.project }}
+      </p>
+    </div>
+  {% endif %}
 {% endfor %}
