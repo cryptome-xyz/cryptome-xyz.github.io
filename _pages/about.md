@@ -13,7 +13,7 @@ My name is Xinyu Zhang (张欣雨), and I’m a Research Fellow (Postdoc.) at Mo
 
 Research Interests
 ======
-My research focuses on **applied cryptography**, particularly **post-quantum cryptography based on symmetric-key primitives**. My research interests include:
+My research focuses on **applied cryptography**, particularly **post-quantum cryptography based on symmetric key primitives**. My research interests include:
 - Post-quantum digital signatures
 - Ring and group signatures
 - Symmetric-key-primitive-based cryptography
