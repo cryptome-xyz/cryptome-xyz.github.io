@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == "teaching" or post.collection == "talks" %}
+      {% if post.collection == "teaching" or post.collection == "talks" or post.collection == "supervision" %}
         {{ title }}
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
@@ -54,7 +54,7 @@
             {% if post.venue %} · <i>{{ post.venue }}</i>{% endif %}
             {% if post.teaching_period %} · {{ post.teaching_period }}{% endif %}
           </p>
-        {% elsif post.collection == 'supervison' %}
+        {% elsif post.collection == 'supervision' %}
             <p>
               {{ post.student }} · {{ post.type }} · {{ post.role }} ·
               <i>{{ post.venue }}</i> · {{ post.period }}
