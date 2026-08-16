@@ -54,7 +54,7 @@
             {% if post.venue %} · <i>{{ post.venue }}</i>{% endif %}
             {% if post.teaching_period %} · {{ post.teaching_period }}{% endif %}
           </p>
-        {% elif post.collection == 'supervison' %}
+        {% elsif post.collection == 'supervison' %}
             <p>
               {{ post.student }} · {{ post.type }} · {{ post.role }} ·
               <i>{{ post.venue }}</i> · {{ post.period }}
