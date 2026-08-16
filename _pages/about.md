@@ -19,7 +19,7 @@ My research focuses on **applied cryptography**, particularly **post-quantum cry
 - Symmetric-key-primitive-based cryptography
 - Zero-knowledge proofs and related techniques
 
-I also work on weighted cryptography, including weighted threshold signatures (e.g., ECDSA) and weighted secret sharing.
+I also work on **weighted cryptography**, including weighted threshold signatures (e.g., ECDSA) and weighted secret sharing.
 
 My Journey into Cryptography
 ======
