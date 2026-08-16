@@ -15,11 +15,8 @@ Education
 ======
 * Doctor of Philosophy (Ph.D.), Monash University, 2021.05 - 2025.02
   * **Supervisors**: Prof. Joseph Liu, Prof. Ron Steinfeld, Dr. Muhammed Esgin, Dr. Dongxi Liu
-  * **Research Area**: Post-quantum cryptography, with a focus on symmetric-key-based digital signatures and advanced signature schemes.
-  * **Selected Publications**:
-    * [CORE A*] Loquat: a SNARK-friendly post-quantum signature based on the legendre PRF with applications in ring and aggregate signatures (Crypto'24)
-    * [CORE B] DualRing-PRF: Post-quantum (linkable) ring signatures from legendre and power residue PRFs (ACISP'24, Best Paper Award)
-      
+  * **Research Area**: Post-quantum cryptography, with a focus on symmetric-key-based digital signatures and advanced signature schemes.     
+
 * Master of Information Technology, Monash University, 2018.02 - 2019.12
   * **Academic Result** GPA 3.813
   * **Scholarship** Information Technology International Merit Scholarship
@@ -59,16 +56,11 @@ Academic Services
 
 * Other Roles
   * Monash Cybersecurity Group Seminar Coordinator
-<!--
-Publications
+
+Selected Publications
 ======
-<p>
-  Please see my
-  <a href="https://scholar.google.com/citations?user=MpDXthYAAAAJ&hl=en">
-    Google Scholar profile
-  </a>
-  for a complete and up-to-date publication list.
-</p>
+* [CORE A*] Loquat: a SNARK-friendly post-quantum signature based on the legendre PRF with applications in ring and aggregate signatures (Crypto'24)
+* [CORE B] DualRing-PRF: Post-quantum (linkable) ring signatures from legendre and power residue PRFs (ACISP'24, Best Paper Award)
   
 Talks
 ======
