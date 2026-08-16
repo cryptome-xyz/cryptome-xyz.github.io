@@ -81,5 +81,15 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
--->
 
+Supervision
+======
+<ul>
+{% for post in site.supervision %}
+  <li>
+    <strong>{{ post.student }}</strong>
+    ({{ post.type }}, {{ post.institution }}), {{ post.period }}<br>
+    Project: <i>{{ post.project }}</i>
+  </li>
+{% endfor %}
+</ul>
