@@ -80,7 +80,7 @@ Supervision
 {% for post in site.supervision %}
   <li>
     <strong>{{ post.student }}</strong>
-    ({{ post.type }}, {{ post.institution }}), {{ post.period }}<br>
+    ({{ post.type }}, {{ post.venue }}), {{ post.period }}<br>
     Project: <i>{{ post.project }}</i>
   </li>
 {% endfor %}
