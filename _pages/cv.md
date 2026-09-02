@@ -51,7 +51,7 @@ Academic Services
 * Anonymous Reviews
   * AsiaCCS (CORE A) 2026 [Program Committee]
   * Eurocrypt (CORE A*) 2024 [Sub-Reviewer]
-  * IEEE TDSC (CORE A) 2023 [Reviewer]
+  * IEEE TDSC (CORE A) 2023, 2026 [Reviewer]
   * IEEE Transactions on Services Computing (CORE A*) 2022 [Reviewer]
 
 * Other Roles
