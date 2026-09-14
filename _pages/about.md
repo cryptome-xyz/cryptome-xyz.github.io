@@ -31,7 +31,7 @@ I am sincerely grateful to everyone who has supported me along this journey!
 
 2026 News
 ======
-- Our paper *Verifiable Weighted Secret Sharing based on Chinese Remainder Theorem* has been accepted by Asiacrypt 2026! (I will post the eprint version soon!)
+- Our paper *Verifiable Weighted Secret Sharing based on Chinese Remainder Theorem* has been accepted by Asiacrypt 2026! [[pdf]](https://eprint.iacr.org/2026/1949.pdf)
 - We have a SoK paper about post-quantum ring signatures based on symmetric key primitives accepted by ICICS 2026!
 
 2025 News
