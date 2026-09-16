@@ -31,6 +31,7 @@ I am sincerely grateful to everyone who has supported me along this journey!
 
 2026 News
 ======
+- We have a SoK paper about post-quantum ring confidential transactions (RingCT) accepted by IEEE Blockchain 2026!
 - Our paper *Verifiable Weighted Secret Sharing based on Chinese Remainder Theorem* has been accepted by Asiacrypt 2026! [[pdf]](https://eprint.iacr.org/2026/1949.pdf)
 - We have a SoK paper about post-quantum ring signatures based on symmetric key primitives accepted by ICICS 2026!
 
